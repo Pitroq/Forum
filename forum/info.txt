@@ -1,0 +1,14 @@
+rejestracja
+logowanie
+nowe pytania
+zadaj pytanie
+	tytul pytania
+	kategorie? (C,cpp, inne, wlasna mozliwosc dodawanie)
+	ocenianie
+	komentowanie
+szukaj
+zapisywanie pytania na pozniej
+
+minimalizm
+
+pytania o ciastka

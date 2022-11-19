@@ -1,0 +1,32 @@
+.question{
+    background-color: #fefefe;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%; 
+    height: 100px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-top: 2px solid black;
+}
+#questionTitle{
+    text-align: left;   
+    width: 80%;
+    float: left;
+}
+#questionAuthor{
+    text-align: right;   
+    width: 20%;
+    float: right;
+}
+#questionCategory{
+    text-align: left;   
+    
+    float: left;
+    margin-top: 15px;
+}
+#questionRate{
+    text-align: right;   
+    width: 20%;
+    margin-top: 15px;
+    float: right;
+}
